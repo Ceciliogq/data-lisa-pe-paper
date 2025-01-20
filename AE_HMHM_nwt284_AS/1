@@ -1,0 +1,4 @@
+usage: config.py [-h] [--only-fisher] [--no-fisher]
+config.py: error: unrecognized arguments: 2
+Could not import fastgb. Please pip install fastgb
+The pyseobnr package has failed to load, you will not be able to employ SEOBNRv5 approximants.
